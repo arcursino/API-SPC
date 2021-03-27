@@ -34,6 +34,12 @@ Breve apresentação dos requisitos funcionais e não funcionais.
 - [Terceira Entrega - Sprint 3](https://github.com)
 - [Quarta Entrega - Sprint 4](https://github.com)
 
+
+## Próxima Sprint
+Este é o planejamento da próxima entrega:
+
+![Sprint 2](relatorios-sprint/sprint-dois.PNG)
+
 ## Tecnologias
 - [Linguagem de programação Python](https://www.python.org/)
 - [Jupyter Notebook](https://jupyter.org/)
