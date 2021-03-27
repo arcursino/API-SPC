@@ -25,8 +25,11 @@ Breve apresentação dos requisitos funcionais e não funcionais.
 ## Proposta de solução
 - Criar uma ferramenta dashbord que reconheça perfis para vendas de produtos da empresa SPC.
 
+## Protótipo atualizado
+- [Clique aqui](https://www.figma.com/proto/FT6VW1l8mL6e9nLJG4E75F/prot%C3%B3tipo?node-id=3%3A1&viewport=210%2C421%2C0.6265624761581421&scaling=contain&page-id=0%3A1)
+
 ## Relatório de Entregas
-- [Primeira Entrega - Sprint 1](https://github.com)
+- [Primeira Entrega - Sprint 1](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/sprint1.md)
 - [Segunda Entrega - Sprint 2](https://github.com)
 - [Terceira Entrega - Sprint 3](https://github.com)
 - [Quarta Entrega - Sprint 4](https://github.com)
@@ -50,11 +53,11 @@ Breve apresentação dos requisitos funcionais e não funcionais.
 
 | Nome | Github | Linkedin |
 |--|--|--|
-| Ariana Cursino | [Acessar Github](https://github.com/arcursino) | [Acessar Linkedin](https://www.linkedin.com/in/arcursino/) |
-|Érica Dos Santos M. da Rosa|[Acessar Github](https://github.com/EricaSantos2109)|[Acessar Linkedin](https://www.linkedin.com/in/%C3%A9rica-santos-2ab73516b/)|
-|Felipe Carolino|[Acessar Github](https://github.com/felipecarolino) |[Acessar Linkedin](https://www.linkedin.com)
-|Guilherme|[Acessar Github](https://github.com/guilhermemigliano) |[Acessar Linkedin](https://www.linkedin.com/in/guilhermemigliano/)
-|Nayara Lorrane|[Acessar Github](https://github.com/nayaralorrane) |[Acessar Linkedin](https://www.linkedin.com/in/nayara-lorrane-765400157/)|
-|Rodrigo Marcelino|[Acessar Github](https://github.com/RodrigoMarcelin) |[Acessar Linkedin](https://www.linkedin.com/in/rodrigo-marcelino-a5578ab8/)|
-|Yasmin de Araújo Arantes|[Acessar Github](https://github.com) |[Acessar Linkedin](https://www.linkedin.com/in/yasmin-de-ara%C3%BAjo-arantes-52600215b/)|
+| Ariana Cursino (Desenvolvedora)| [Acessar Github](https://github.com/arcursino) | [Acessar Linkedin](https://www.linkedin.com/in/arcursino/) |
+|Érica Dos Santos M. da Rosa (Product Owner)|[Acessar Github](https://github.com/EricaSantos2109)|[Acessar Linkedin](https://www.linkedin.com/in/%C3%A9rica-santos-2ab73516b/)|
+|Felipe Carolino (Desenvolvedor)|[Acessar Github](https://github.com/felipecarolino) |[Acessar Linkedin](https://www.linkedin.com)
+|Guilherme (Scrum Master)|[Acessar Github](https://github.com/guilhermemigliano) |[Acessar Linkedin](https://www.linkedin.com/in/guilhermemigliano/)
+|Nayara Lorrane (Analista de Negócios)|[Acessar Github](https://github.com/nayaralorrane) |[Acessar Linkedin](https://www.linkedin.com/in/nayara-lorrane-765400157/)|
+|Rodrigo Marcelino (Desenvolvedor) |[Acessar Github](https://github.com/RodrigoMarcelin) |[Acessar Linkedin](https://www.linkedin.com/in/rodrigo-marcelino-a5578ab8/)|
+|Yasmin de Araújo Arantes (Analista de Negócios)|[Acessar Github](https://github.com) |[Acessar Linkedin](https://www.linkedin.com/in/yasmin-de-ara%C3%BAjo-arantes-52600215b/)|
 
