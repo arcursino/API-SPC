@@ -44,6 +44,7 @@ Este é o planejamento da próxima entrega:
 - [Linguagem de programação Python](https://www.python.org/)
 - [Jupyter Notebook](https://jupyter.org/)
 - [Figma](https://www.figma.com/)
+- [Jira Software](https://www.atlassian.com/br/software/jira)
 - [Pandas](https://pandas.pydata.org/)
 - [Geopandas](https://geopandas.org/)
 - [Matplotlib](https://matplotlib.org/)
