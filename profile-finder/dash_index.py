@@ -34,8 +34,8 @@ colunas = df.columns
 veteranos = df[df['geracoes'] == '1900 a 1940 - Veteranos']
 boomers = df[df['geracoes'] == '1940 a 1959 - Baby Boomers ']
 ger_x = df[df['geracoes'] == '1960 a 1979 - Geração Y']
-ger_y = df[df['geracoes'] == '1980 a 1994 - Geração Y']
-ger_z = df[df['geracoes'] == '1994 a 2010 - Geração Y']
+ger_y = df[df['geracoes'] == '1980 a 1994 - Geração X']
+ger_z = df[df['geracoes'] == '1994 a 2010 - Geração Z']
 
 trace1 = go.Bar(
     x = veteranos['renda'].unique(),
@@ -83,11 +83,11 @@ trace5 = go.Bar(
 )
 
 data = [trace1, trace2, trace3, trace4, trace5] #combine two charts/columns
-layout = go.Layout(barmode="group", title="Faixa Salarial de acordo com as Gerações") #define how to display the columns
+layout = go.Layout(barmode="group", title="Faixa Salarial de acordo com as Gerações - Brasil") #define how to display the columns
 fig1 = go.Figure(data=data, layout=layout)
 fig1.update_layout(
     title=dict(x=0.5), #center the title
-    xaxis_title="District",#setup the x-axis title
+    xaxis_title="Faixa Salarial",#setup the x-axis title
     yaxis_title="Total", #setup the x-axis title
     margin=dict(l=20, r=20, t=60, b=20),#setup the margin
     paper_bgcolor="aliceblue", #setup the background color
@@ -149,9 +149,9 @@ def groupby_estado(estado):
     filtered_data = df[df['SIGLA_UF'] == estado]
     veteranos = filtered_data[filtered_data['geracoes'] == '1900 a 1940 - Veteranos']
     boomers = filtered_data[filtered_data['geracoes'] == '1940 a 1959 - Baby Boomers ']
-    ger_x = filtered_data[filtered_data['geracoes'] == '1960 a 1979 - Geração Y']
+    ger_x = filtered_data[filtered_data['geracoes'] == '1960 a 1979 - Geração X']
     ger_y = filtered_data[filtered_data['geracoes'] == '1980 a 1994 - Geração Y']
-    ger_z = filtered_data[filtered_data['geracoes'] == '1994 a 2010 - Geração Y']
+    ger_z = filtered_data[filtered_data['geracoes'] == '1994 a 2010 - Geração Z']
     
     trace1 = go.Bar(
         x = veteranos['renda'].unique(),
@@ -199,11 +199,11 @@ def groupby_estado(estado):
     )
 
     data = [trace1, trace2, trace3, trace4, trace5] #combine two charts/columns
-    layout = go.Layout(barmode="group", title="Faixa Salarial de acordo com as Gerações") #define how to display the columns
+    layout = go.Layout(barmode="group", title="Faixa Salarial de acordo com as Gerações - "  + estado ) #define how to display the columns
     fig1 = go.Figure(data=data, layout=layout)
     fig1.update_layout(
         title=dict(x=0.5), #center the title
-        xaxis_title="District",#setup the x-axis title
+        xaxis_title="Faixa Salarial",#setup the x-axis title
         yaxis_title="Total", #setup the x-axis title
         margin=dict(l=20, r=20, t=60, b=20),#setup the margin
         paper_bgcolor="aliceblue", #setup the background color
