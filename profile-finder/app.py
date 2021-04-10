@@ -62,16 +62,16 @@ server = flask.Flask(__name__)
 
 
 
-VALID_USERNAME_PASSWORD_PAIRS = {
-    'hello': 'world'
-}
+# VALID_USERNAME_PASSWORD_PAIRS = {
+#     'hello': 'world'
+# }
 
 app = dash.Dash(__name__, server=server,prevent_initial_callbacks=True)
 #app = dash.Dash(__name__, server=server,external_stylesheets=external_stylesheets)
-auth = dash_auth.BasicAuth(
-    app,
-    VALID_USERNAME_PASSWORD_PAIRS
-)
+# auth = dash_auth.BasicAuth(
+#     app,
+#     VALID_USERNAME_PASSWORD_PAIRS
+# )
 
 app.config['suppress_callback_exceptions']=True
 #app.scripts.config.serve_locally=True
