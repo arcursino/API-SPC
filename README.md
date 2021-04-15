@@ -28,17 +28,29 @@ Breve apresentação dos requisitos funcionais e não funcionais.
 ## Protótipo atualizado
 - [Clique aqui](https://www.figma.com/proto/FT6VW1l8mL6e9nLJG4E75F/prot%C3%B3tipo?node-id=3%3A1&viewport=210%2C421%2C0.6265624761581421&scaling=contain&page-id=0%3A1)
 
+## Marcos do projeto
+| Marcos | Descrição | Previsão |
+|--|--|--|
+| Kick-off do projeto| Apresentação do cliente e inicio do projeto | 04/03/2021 |
+|1ª Sprint||08/03 - 28/03|
+|2ª Sprint||29/03 - 18/04|
+|3ª Sprint||26/04 - 16/05|
+|4ª Sprint||17/05 - 05/06|
+|Apresentação final |Apresentação do produto final para o cliente|07/06 - 11/06|
+|Feira de soluções| Apresentação do produto final para o público |14/06 - 18/06|
+
+
+
 ## Relatório de Entregas
-- [Primeira Entrega - Sprint 1](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/sprint1.md)
-- [Segunda Entrega - Sprint 2](https://github.com)
-- [Terceira Entrega - Sprint 3](https://github.com)
-- [Quarta Entrega - Sprint 4](https://github.com)
+- [Primeira Entrega - Sprint 1](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/sprint-um.md)
+- [Segunda Entrega - Sprint 2](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/sprint-dois.md)
+- [Terceira Entrega - Sprint 3](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/sprint-tres.md)
+- [Quarta Entrega - Sprint 4](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/sprint-quatro.md)
 
 
-## Próxima Sprint
-Este é o planejamento da próxima entrega:
+## Plano de ação
 
-![Sprint 2](relatorios-sprint/sprint-dois.PNG)
+![Plano de ação](relatorios-sprint/imagens/plano-acao.png)
 
 ## Tecnologias
 - [Linguagem de programação Python](https://www.python.org/)
@@ -62,7 +74,7 @@ Este é o planejamento da próxima entrega:
 |--|--|--|
 | Ariana Cursino (Desenvolvedora)| [Acessar Github](https://github.com/arcursino) | [Acessar Linkedin](https://www.linkedin.com/in/arcursino/) |
 |Érica Dos Santos M. da Rosa (Product Owner)|[Acessar Github](https://github.com/EricaSantos2109)|[Acessar Linkedin](https://www.linkedin.com/in/%C3%A9rica-santos-2ab73516b/)|
-|Felipe Carolino (Desenvolvedor)|[Acessar Github](https://github.com/felipecarolino) |[Acessar Linkedin](https://www.linkedin.com)
+|Felipe Carolino (Desenvolvedor)|[Acessar Github](https://github.com/felipecarolino) |[Acessar Linkedin](https://www.linkedin.com/in/felipe-carolino/)
 |Guilherme (Scrum Master)|[Acessar Github](https://github.com/guilhermemigliano) |[Acessar Linkedin](https://www.linkedin.com/in/guilhermemigliano/)
 |Nayara Lorrane (Analista de Negócios)|[Acessar Github](https://github.com/nayaralorrane) |[Acessar Linkedin](https://www.linkedin.com/in/nayara-lorrane-765400157/)|
 |Rodrigo Marcelino (Desenvolvedor) |[Acessar Github](https://github.com/RodrigoMarcelin) |[Acessar Linkedin](https://www.linkedin.com/in/rodrigo-marcelino-a5578ab8/)|

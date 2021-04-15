@@ -2,8 +2,8 @@
 
 Nesta Sprint foi realizada a análise do *dataset* com Jupyter Notebook e suas bibliotecas. Além disso, foi criado um protótipo para auxiliar no desenvolvimento e documentações para o planejamento e execução do projeto.
 
-- Início: 22/03
-- Término: 26/03
+- Início: 08/03 
+- Término: 28/03
 
 ### Para acessar o que foi desenvolvido acesse a URL ao lado: [Clique aqui para visualizar](https://github.com/EricaSantos2109/API-SPC/tree/main/analise)
 
@@ -30,3 +30,6 @@ Nesta Sprint foi realizada a análise do *dataset* com Jupyter Notebook e suas b
 	- Numpy
 	- Folium
 	- Scikit learning
+
+## Sprint 
+![Sprint 1](relatorios-sprint/imagens/sprint-um.png)
