@@ -30,4 +30,4 @@ Nesta Sprint foi realizada a implementação das análises em um dashboard. Alé
 	- Folium
 
 ## Sprint 
-![Sprint 2](relatorios-sprint/imagens/sprint-dois.png)
+![Sprint 2](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/imagens/sprint-dois.png)

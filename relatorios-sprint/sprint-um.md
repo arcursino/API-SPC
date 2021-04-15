@@ -32,4 +32,4 @@ Nesta Sprint foi realizada a análise do *dataset* com Jupyter Notebook e suas b
 	- Scikit learning
 
 ## Sprint 
-![Sprint 1](relatorios-sprint/imagens/sprint-um.png)
+![Sprint 1](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/imagens/sprint-um.png)
