@@ -6,24 +6,37 @@ Esse projeto é um trabalho acadêmico em andamento realizando parceria entre a 
 Breve apresentação dos requisitos funcionais e não funcionais.
 
 ### Requisitos Funcionais
-- Reconhecer perfis para vendas de produtos da empresa SPC.
+- RF-01: Reconhecer perfis para vendas de produtos da empresa SPC.
+- RF-02: Dashboard para exibição dos dados.
+- RF-03: Filtro por Estado/Cidade.
+- RF-04: Geração de gráfico.
+- RF-05: Consulta de dados.
+- RF-06: Recomendação de produtos.
 
 ### Requisitos Não Funcionais
-- Criação de documentações.
-- Banco de Dados Relacional.
+- RFN-01: Criação de documentações.
+- RFN-02: Disponível para qualquer plataforma.
+- RFN-03: Banco de Dados Relacional.
+- RNF-04: Desenvolvido em Bibliotecas Python.
+- RNF-05: Amostragem de dados.
+- RNF-06: Aplicação Web
+- RNF-07: Disponibilidade do sistema.
 
 ### Regras de negócio
-- RN01: O sistema deve traçar o perfil transacional, informando os diferentes tipos de compras realizadas por um determinado consumidor.
-- RN02: O sistema deve mapear a cultura de consumo de uma determinada região, delimitado no Brasil.
-- RN03: O sistema deve estimar com base nos gastos, o potencial financeiro de determinado cliente.
-- RN04: O sistema deve monitorar como o nosso negócio afeta na vida do cliente.
-- RN05: O sistema deve gerenciar as classes sociais do cliente.
-- RN06: O sistema deve informar qual o seguimento de indústria de bens de consumo ou serviços.
-- RN07: O sistema deve monitorar Quais categorias de produtos/serviços essa pessoa consume.
-- RN08: O sistema deve gerenciar os diferentes produtos ofertados pelo SPC.
+- RN-01: O sistema deve traçar o perfil transacional, informando os diferentes tipos de compras realizadas por um determinado consumidor.
+- RN-02: O sistema deve mapear a cultura de consumo de uma determinada região, delimitado no Brasil.
+- RN-03: O sistema deve estimar com base nos gastos, o potencial financeiro de determinado cliente.
+- RN-04: O sistema deve monitorar como o nosso negócio afeta na vida do cliente.
+- RN-05: O sistema deve gerenciar as classes sociais do cliente.
+- RN-06: O sistema deve informar qual o seguimento de indústria de bens de consumo ou serviços.
+- RN-07: O sistema deve monitorar Quais categorias de produtos/serviços essa pessoa consume.
+- RN-08: O sistema deve gerenciar os diferentes produtos ofertados pelo SPC.
+
+## Definição do problema
+- Dificuldade em realizar pesquisas em seu banco de dados para reconhecimento de potenciais perfis para vendas de seus produtos.
 
 ## Proposta de solução
-- Criar uma ferramenta dashbord que reconheça perfis para vendas de produtos da empresa SPC.
+- Criar um sistema que seja capaz de exibir e encontrar potenciais perfis para vendas de produtos da empresa SPC.
 
 ## Protótipo atualizado
 - [Clique aqui](https://www.figma.com/proto/FT6VW1l8mL6e9nLJG4E75F/prot%C3%B3tipo?node-id=3%3A1&viewport=210%2C421%2C0.6265624761581421&scaling=contain&page-id=0%3A1)
@@ -32,10 +45,10 @@ Breve apresentação dos requisitos funcionais e não funcionais.
 | Marcos | Descrição | Previsão |
 |--|--|--|
 | Kick-off do projeto| Apresentação do cliente e inicio do projeto | 04/03/2021 |
-|1ª Sprint||08/03 - 28/03|
-|2ª Sprint||29/03 - 18/04|
-|3ª Sprint||26/04 - 16/05|
-|4ª Sprint||17/05 - 05/06|
+|1ª Sprint|Realização da análise do *dataset* e criação de documentações|08/03 - 28/03|
+|2ª Sprint|Implementação das análises em um dashboard e atualização das documentações|29/03 - 18/04|
+|3ª Sprint|Implementação das funcionalidades com *Machine Learning* e atualização das documentações|26/04 - 16/05|
+|4ª Sprint|Finalização da implementação das funcionais|17/05 - 05/06|
 |Apresentação final |Apresentação do produto final para o cliente|07/06 - 11/06|
 |Feira de soluções| Apresentação do produto final para o público |14/06 - 18/06|
 
