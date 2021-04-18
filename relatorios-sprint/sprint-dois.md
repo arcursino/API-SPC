@@ -16,12 +16,16 @@ Os recursos foram preparados para implementação do machine Learning no sistema
 
 Os seguintes documentos foram feitos e atualizados conforme a evolução do projeto:
 
+- [Link para os documentos](https://github.com/EricaSantos2109/API-SPC/tree/main/documentos/sprint-2)
+
 - BSC
 - Design Thinking
 - Itil
 - PETI 
 
 Relatórios gerados para a sprint 2:
+
+- [Link para os relatórios](https://github.com/EricaSantos2109/API-SPC/tree/main/documentos)
 
 - Gerenciamento de Qualidade
 - Gerenciamento de Custo
