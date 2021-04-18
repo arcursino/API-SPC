@@ -67,7 +67,17 @@ body{
     float: left;
     width: 80%;
     margin-left: 30px;
-    margin-top: 30px;
+    margin-top: 20px;
+    border-color: #315475;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.filter-dropdown-localizacao{
+    float: left;
+    width: 80%;
+    margin-left: 30px;
+    margin-top: 10px;
     border-color: #315475;
     font-family: Arial, Helvetica, sans-serif;
 
@@ -77,7 +87,7 @@ body{
     float: left;
     width: calc(100% - 300px - 55px);
     min-width: 540px;
-    height: 300px;
+    height: 100px;
     background: rgb(0,69,125);
     background: linear-gradient(90deg, rgba(0,69,125,1) 0%, rgba(38,123,187,1) 100%);
 
@@ -86,13 +96,83 @@ body{
 .graph-1{
     float: left;
     min-width: 500px;
-    width: calc((100% - 345px - 95px) / 2);
+    width: calc((100% - 90px) / 2);
     padding: 20px;
-}
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.2);
+    margin-left: 0px;
+    margin-top: 10px;
+    background-color: white;
 
+}
 .graph-2{
     float: left;
-    min-width: 500px;
-    width: calc(100% - 300px - 95px);
+    min-width: 450px;
+    width: calc((100% - 90px) / 2);
     padding: 20px;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.2);
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: white;
+
+}
+
+.graph-3{
+    float: left;
+    min-width: 500px;
+    width: calc(100% - 40px);
+    padding: 20px;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.2);
+    margin-top: 10px;
+    background-color: white;
+}
+
+.estadoTitle{
+    margin-left: 30px;
+    margin-top: 20px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 14px;
+}
+
+
+.custom-tabs-container {
+    width: 40%;
+
+}
+.custom-tabs {
+    background-color: transarent;
+    padding: 0px 10px;    
+    margin-top: 51px;
+    
+}
+
+.custom-tab {
+    color:#2a8dff;    
+    border-top: 0px solid #5f9ee6 !important;
+    border-left: 0px solid #5f9ee6 !important;
+    border-right: 0px solid #5f9ee6 !important;
+    border-bottom: 0px solid  !important;
+    background-color: #1b4c8596 !important;
+    padding: 14px !important;
+    font-family: "system-ui";
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5px;
+    text-align: 'center';
+    
+}
+.custom-tab--selected {
+    color: white !important;
+    border-top: 3px solid yellow !important;
+}
+
+.graph-title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: rgb(71, 71, 71);
+    
 }
