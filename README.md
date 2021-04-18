@@ -2,8 +2,12 @@
 
 Esse projeto é um trabalho acadêmico em andamento realizando parceria entre a empresa SPC Brasil e Faculdade de tecnologia de São José dos Campos - Professor Jassen Vidal.
 
-## Requisitos
-Breve apresentação dos requisitos funcionais e não funcionais.
+## Requisitos Funcionais / Requisitos Não Funcionais / Regras de Negócio
+Para visualização do documento contendo os itens acima acessar: 
+
+- [Link para Requisitos](https://github.com/EricaSantos2109/API-SPC/blob/main/documentos/sprint-2/Requisitos.pdf)
+
+
 
 ### Requisitos Funcionais
 - RF-01: Reconhecer perfis para vendas de produtos da empresa SPC.
