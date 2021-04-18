@@ -14,8 +14,8 @@ Para visualização do documento contendo os itens acima acessar:
 ## Proposta de solução
 - Criação de um sistema com o uso de inteligência artificial que seja capaz de exibir e encontrar potenciais perfis interessados em produtos da empresa SPC.
 
-## Protótipo atualizado
-- [Clique aqui](https://www.figma.com/proto/FT6VW1l8mL6e9nLJG4E75F/prot%C3%B3tipo?node-id=3%3A1&viewport=210%2C421%2C0.6265624761581421&scaling=contain&page-id=0%3A1)
+## Demonstração do sistema atualizado
+![Sprint 2](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/imagens/prototipo.gif)
 
 ## Marcos do projeto
 | Marcos | Descrição | Previsão |
