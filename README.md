@@ -8,34 +8,6 @@ Para visualização do documento contendo os itens acima acessar:
 - [Link para Requisitos](https://github.com/EricaSantos2109/API-SPC/blob/main/documentos/sprint-2/Requisitos.pdf)
 
 
-
-### Requisitos Funcionais
-- RF-01: Reconhecer perfis para vendas de produtos da empresa SPC.
-- RF-02: Dashboard para exibição dos dados.
-- RF-03: Filtro por Estado/Cidade.
-- RF-04: Geração de gráfico.
-- RF-05: Consulta de dados.
-- RF-06: Recomendação de produtos.
-
-### Requisitos Não Funcionais
-- RFN-01: Criação de documentações.
-- RFN-02: Disponível para qualquer plataforma.
-- RFN-03: Banco de Dados Relacional.
-- RNF-04: Desenvolvido em Bibliotecas Python.
-- RNF-05: Amostragem de dados.
-- RNF-06: Aplicação Web
-- RNF-07: Disponibilidade do sistema.
-
-### Regras de negócio
-- RN-01: O sistema deve traçar o perfil transacional, informando os diferentes tipos de compras realizadas por um determinado consumidor.
-- RN-02: O sistema deve mapear a cultura de consumo de uma determinada região, delimitado no Brasil.
-- RN-03: O sistema deve estimar com base nos gastos, o potencial financeiro de determinado cliente.
-- RN-04: O sistema deve monitorar como o nosso negócio afeta na vida do cliente.
-- RN-05: O sistema deve gerenciar as classes sociais do cliente.
-- RN-06: O sistema deve informar qual o seguimento de indústria de bens de consumo ou serviços.
-- RN-07: O sistema deve monitorar Quais categorias de produtos/serviços essa pessoa consume.
-- RN-08: O sistema deve gerenciar os diferentes produtos ofertados pelo SPC.
-
 ## Definição do problema
 - Dificuldade em realizar pesquisas em seu banco de dados para reconhecimento de potenciais perfis para vendas de seus produtos.
 
