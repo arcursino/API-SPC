@@ -13,7 +13,7 @@ ToDO:
 # #imports 
 import dash
 import dash_table
-import dash_auth
+# import dash_auth
 from dash.dependencies import Input, Output
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
@@ -21,35 +21,35 @@ import dash_html_components as html
 import pandas as pd
 import plotly.graph_objs as go
 import pickle
-import psycopg2
+# import psycopg2
 import numpy as np
 import dash_daq as daq
 
 
 ###################################
 
-class DBConnectionHandler(object):    
-    def __init__(self):
-        self.__connection = None
-        self.__infos = {
-            'Local_db': {'host': 'localhost', 'port': '5432', 'dbname': 'brow', 'user': 'postgres', 'password': '97235532'}
-        }
-        self.__actual_db = self.__infos["Local_db"]
+# class DBConnectionHandler(object):    
+#     def __init__(self):
+#         self.__connection = None
+#         self.__infos = {
+#             'Local_db': {'host': 'localhost', 'port': '5432', 'dbname': 'brow', 'user': 'postgres', 'password': '97235532'}
+#         }
+#         self.__actual_db = self.__infos["Local_db"]
 
-    def connect(self):
-        self.__connection = psycopg2.connect(**self.__actual_db)
+#     def connect(self):
+#         self.__connection = psycopg2.connect(**self.__actual_db)
 
-    def disconnect(self):
-        self.__connection.close()
+#     def disconnect(self):
+#         self.__connection.close()
 
-    def change_db(self, db_name):
-        self.__actual_db = self.__infos[db_name]
+#     def change_db(self, db_name):
+#         self.__actual_db = self.__infos[db_name]
 
-    def cursor(self):
-        return self.__connection.cursor()
+#     def cursor(self):
+#         return self.__connection.cursor()
 
-    def connection(self):
-        return self.__connection
+#     def connection(self):
+#         return self.__connection
 
 #####################################################
 ##################### app ###########################
@@ -62,16 +62,16 @@ server = flask.Flask(__name__)
 
 
 
-VALID_USERNAME_PASSWORD_PAIRS = {
-    'hello': 'world'
-}
+# VALID_USERNAME_PASSWORD_PAIRS = {
+#     'hello': 'world'
+# }
 
 app = dash.Dash(__name__, server=server,prevent_initial_callbacks=True)
 #app = dash.Dash(__name__, server=server,external_stylesheets=external_stylesheets)
-auth = dash_auth.BasicAuth(
-    app,
-    VALID_USERNAME_PASSWORD_PAIRS
-)
+# auth = dash_auth.BasicAuth(
+#     app,
+#     VALID_USERNAME_PASSWORD_PAIRS
+# )
 
 app.config['suppress_callback_exceptions']=True
 #app.scripts.config.serve_locally=True
