@@ -1,9 +1,32 @@
 # Entrega 2 (18/04)
 
-Nesta Sprint foi realizada a implementação das análises em um dashboard. Além disto, foram criadas novas documentações e atualizadas as antigas. 
-
 - Início: 29/03
 - Término: 18/04
+
+
+Nesta Sprint foi realizada a criação de um Dashboard com os seguintes recursos:
+
+- Filtros de localização (Cidade/Estado)
+- Gráfico -  Geração x Faixa Salarial por estado
+- Gráfico - Geração x Faixa Salarial por cidade
+- Mapa de Cluster - Maior concentração de usuários por regiões
+- Tabela com produtos mais vendidos filtrados por cidade.
+
+Os recursos foram preparados para implementação do machine Learning no sistema.
+
+Os seguintes documentos foram feitos e atualizados conforme a evolução do projeto:
+
+- BSC
+- Design Thinking
+- Itil
+- PETI 
+
+Relatórios gerados para a sprint 2:
+
+- Gerenciamento de Qualidade
+- Gerenciamento de Custo
+- Gerenciamento de Cronograma
+- Matriz RACI
 
 ### Para acessar o que foi desenvolvido acesse a URL ao lado: [Clique aqui para visualizar](https://github.com/EricaSantos2109/API-SPC/tree/main/analise)
 
