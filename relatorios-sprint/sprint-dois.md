@@ -28,7 +28,13 @@ Relatórios gerados para a sprint 2:
 - Gerenciamento de Cronograma
 - Matriz RACI
 
-### Para acessar o que foi desenvolvido acesse a URL ao lado: [Clique aqui para visualizar](https://github.com/EricaSantos2109/API-SPC/tree/main/analise)
+### Para acessar o que foi desenvolvido acesse a URL ao lado: [Clique aqui para visualizar](https://github.com/EricaSantos2109/API-SPC/tree/main/profile-finder)
+
+## Demonstração do sistema atualizados
+
+![Sprint 2](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/imagens/prototipo.gif)
+
+
 
 ## Documentações
 - Itil v3
