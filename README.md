@@ -5,7 +5,7 @@ Esse projeto é um trabalho acadêmico em andamento realizando parceria entre a 
 ## Requisitos Funcionais / Requisitos Não Funcionais / Regras de Negócio
 Para visualização do documento contendo os itens acima acessar: 
 
-- [Link para Requisitos](https://github.com/EricaSantos2109/API-SPC/blob/main/documentos/sprint-2/Requisitos.pdf)
+[[Link para Requisitos]](https://github.com/EricaSantos2109/API-SPC/blob/main/documentos/sprint-2/Requisitos.pdf)
 
 
 ## Definição do problema
