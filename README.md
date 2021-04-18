@@ -36,7 +36,7 @@ Breve apresentação dos requisitos funcionais e não funcionais.
 - Dificuldade em realizar pesquisas em seu banco de dados para reconhecimento de potenciais perfis para vendas de seus produtos.
 
 ## Proposta de solução
-- Criar um sistema que seja capaz de exibir e encontrar potenciais perfis para vendas de produtos da empresa SPC.
+- Criação de um sistema com o uso de inteligência artificial que seja capaz de exibir e encontrar potenciais perfis interessados em produtos da empresa SPC.
 
 ## Protótipo atualizado
 - [Clique aqui](https://www.figma.com/proto/FT6VW1l8mL6e9nLJG4E75F/prot%C3%B3tipo?node-id=3%3A1&viewport=210%2C421%2C0.6265624761581421&scaling=contain&page-id=0%3A1)
@@ -45,10 +45,10 @@ Breve apresentação dos requisitos funcionais e não funcionais.
 | Marcos | Descrição | Previsão |
 |--|--|--|
 | Kick-off do projeto| Apresentação do cliente e inicio do projeto | 04/03/2021 |
-|1ª Sprint|Realização da análise do *dataset* e criação de documentações|08/03 - 28/03|
-|2ª Sprint|Implementação das análises em um dashboard e atualização das documentações|29/03 - 18/04|
-|3ª Sprint|Implementação das funcionalidades com *Machine Learning* e atualização das documentações|26/04 - 16/05|
-|4ª Sprint|Finalização da implementação das funcionais|17/05 - 05/06|
+|1ª Sprint|Realização da análise do *dataset* para entender e definir a proposta de solução a ser validada pelo cliente|08/03 - 28/03|
+|2ª Sprint|Criação de um dashboard e implementação dos dados analisados através de gráficos e tabela para futura interação com aplicação do *Machine Learning*|29/03 - 18/04|
+|3ª Sprint|Implementação do *Machine Learning* com base nos dados analisados para criação de um sistema de recomendação de produtos|26/04 - 16/05|
+|4ª Sprint|Adição de gráfico e tabela para melhor amostragem dos dados que serão apresentados pela aplicação do *Machine Learning*|17/05 - 05/06|
 |Apresentação final |Apresentação do produto final para o cliente|07/06 - 11/06|
 |Feira de soluções| Apresentação do produto final para o público |14/06 - 18/06|
 
@@ -60,10 +60,6 @@ Breve apresentação dos requisitos funcionais e não funcionais.
 - [Terceira Entrega - Sprint 3](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/sprint-tres.md)
 - [Quarta Entrega - Sprint 4](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/sprint-quatro.md)
 
-
-## Plano de ação
-
-![Plano de ação](relatorios-sprint/imagens/plano-acao.png)
 
 ## Tecnologias
 - [Linguagem de programação Python](https://www.python.org/)
