@@ -30,7 +30,7 @@ Relatórios gerados para a sprint 2:
 
 ### Para acessar o que foi desenvolvido acesse a URL ao lado: [Clique aqui para visualizar](https://github.com/EricaSantos2109/API-SPC/tree/main/profile-finder)
 
-## Demonstração do sistema atualizados
+## Demonstração do sistema atualizado
 
 ![Sprint 2](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/imagens/prototipo.gif)
 
