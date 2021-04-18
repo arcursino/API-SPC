@@ -45,7 +45,8 @@ Algumas análises realizadas:
 - Plano de Gerenciamento do Cronograma
 - Modelo de gestão estratégica - BSC
 
-[Documento podem ser acessados nesse Link](https://github.com/EricaSantos2109/API-SPC/tree/main/documentos/sprint-1)
+### Toda a Documentação descrita acima pode ser acessada nesse link:
+ [Documentos](https://github.com/EricaSantos2109/API-SPC/tree/main/documentos/sprint-1)
 
 ## Ferramentas Utilizadas
 - Linguagem de programação Python
