@@ -5,6 +5,33 @@ Nesta Sprint foi realizada a análise do *dataset* com Jupyter Notebook e suas b
 - Início: 08/03 
 - Término: 28/03
 
+## Anáise do Dataset
+
+A análise do Dataset foi realizade utilizando o Jupyter Notebook e principalmente a biblioteca Pandas.
+
+Algumas análises realizadas:
+
+- Histograma com a distribuição da Idade dos Clientes:
+
+![Histograma](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/imagens/idade.png)
+
+- Gráfico de Barras da Faixa Salarial X as Gerações dos Clientes:
+
+![geracaoxfaixa](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/imagens/geracaoxfaixa.png)
+
+- Gráfico de Barras da Faixa Salarial X as Gerações dos Clientes por Cidade - No exemplo abaixo está o gráfico do Município do Rio de Janeiro:
+
+![rj](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/imagens/rj.png)
+
+- Mapa de Calor da localização dos Clientes:
+
+![heat](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/imagens/heat.png)
+
+- Mapa de Agrupamento dos Clientes:
+
+![cluster](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/imagens/cluster.png)
+
+
 ### Para acessar o que foi desenvolvido acesse a URL ao lado: [Clique aqui para visualizar](https://github.com/EricaSantos2109/API-SPC/tree/main/analise)
 
 ## Protótipo
