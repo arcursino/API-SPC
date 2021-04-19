@@ -4,7 +4,7 @@
 - Término: 18/04
 
 
-Nesta Sprint foi realizada a criação de um Dashboard com os seguintes recursos:
+## Nesta Sprint foi realizada a criação de um Dashboard com os seguintes recursos:
 
 - Filtros de localização (Cidade/Estado)
 - Gráfico -  Geração x Faixa Salarial por estado
@@ -14,7 +14,7 @@ Nesta Sprint foi realizada a criação de um Dashboard com os seguintes recursos
 
 Os recursos foram preparados para implementação do machine Learning no sistema.
 
-Os seguintes documentos foram feitos e atualizados conforme a evolução do projeto:
+## Documentos criados e atualizados conforme a evolução do projeto:
 
 [[Link para os documentos]](https://github.com/EricaSantos2109/API-SPC/tree/main/documentos/sprint-2)
 
@@ -23,7 +23,7 @@ Os seguintes documentos foram feitos e atualizados conforme a evolução do proj
 - Itil
 - PETI 
 
-Relatórios gerados para a sprint 2:
+## Relatórios gerados para a sprint 2:
 
 [[Link para os relatórios]](https://github.com/EricaSantos2109/API-SPC/tree/main/documentos)
 
