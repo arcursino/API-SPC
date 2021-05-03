@@ -45,7 +45,7 @@ Foi realizado duas técnicas para segmentar os clientes.
 
 5. Próximo passo é uma Pesquisa Bibliográfica para entender melhor as classes aqui segmentadas. Ex: Qual o perfil de consumo da Geração X? E da classe econômica C? O município que mais tem clientes é o Rio de Janeiro, então os municípes tem focado o consumo nos últimos anos?  Entre outros.
 
-
+### Para mais esclarecimentos sobre as técnicas e ferramentas utilizadas, consultar o notebook da análise.
 
 ## Recomendações para o uso:
 
