@@ -6,8 +6,19 @@
 
 - [Recomendação Baseado no Conteúdo](recomendacao-baseado_conteudo.ipynb). A filtragem colaborativa falha em incorporar novos usuários que ainda não classificaram e novos itens que não possuem classificações ou comentários. Foi usado a Similaridade do Cosseno para construir o sistema de recomendação Baseada em Contéudo para contornar esse problema.
 
+- [Como encontrar o valor ótimo de K em KNN](knn_k.ipynb) Visualize a taxa de erro vs. gráfico K para encontrar o valor K mais adequado[1].
 
-### Para mais esclarecimentos sobre as técnicas e ferramentas utilizadas, consultar o notebook da análise.
+[1] - [Tutorial](https://towardsdatascience.com/how-to-find-the-optimal-value-of-k-in-knn-35d936e554eb#:~:text=The%20optimal%20K%20value%20usually,be%20aware%20of%20the%20outliers.)
+
+
+## Conclusão
+
+- O Sistema de Recomendação Baseado no Conteúdo se mostrou mais eficaz e simples de ser construído.
+- Para o Sistema de Recomendação por Filtro Colaborativo, é necessária fazer uma análise do número de 'k' previamente.
+- Para a Sprint 4 será utilizado também o algoritmo K-Means para clusterizar os dados e fazer um sistema de recomendação mais refinado.
+
+
+### Para mais esclarecimentos sobre as técnicas e ferramentas utilizadas, consultar o notebook das análises.
 
 
 ## Recomendações para o uso:
