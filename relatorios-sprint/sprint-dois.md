@@ -25,7 +25,7 @@ Os recursos foram preparados para implementação do machine Learning no sistema
 
 ## Relatórios gerados para a sprint 2:
 
-[[Link para os relatórios]](https://github.com/EricaSantos2109/API-SPC/tree/main/documentos)
+[[Link para os relatórios]](https://github.com/EricaSantos2109/API-SPC/tree/main/documentos/sprint-2)
 
 - Gerenciamento de Qualidade
 - Gerenciamento de Custo

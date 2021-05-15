@@ -19,6 +19,8 @@ Conclusão:
 - Para o Sistema de Recomendação por Filtro Colaborativo, é necessária fazer uma análise do número de 'k' previamente.
 - Para a Sprint 4 será utilizado também o algoritmo K-Means para clusterizar os dados e fazer um sistema de recomendação mais refinado.
 
+### Para acessar o que foi desenvolvido acesse a URL ao lado: [[Clique aqui para visualizar]](https://github.com/EricaSantos2109/API-SPC/tree/main/analise/sistema-recomendacao)
+
 ## Nesta Sprint foi realizada
 
 Algumas perguntas para se ter um insight do dataset. 
@@ -69,14 +71,11 @@ Por fim, podemos testar nosso recomendador ainda mais com outros produtos, utili
 
 ## Relatórios gerados para a sprint 3:
 
-[[Link para os relatórios]](https://github.com/EricaSantos2109/API-SPC/tree/main/documentos)
+[[Link para os relatórios]](https://github.com/EricaSantos2109/API-SPC/tree/main/documentos/sprint-3)
 
 - Plano de gerenciamento de Riscos
 - Registro dos riscos
-- Matriz das Comunicações
-- Matriz RACI
-
-### Para acessar o que foi desenvolvido acesse a URL ao lado: [[Clique aqui para visualizar]](https://github.com/EricaSantos2109/API-SPC/tree/main/analise/sistema-recomendacao)
+- Matriz das Comunicações - Matriz RACI
 
 
 ## Documentações

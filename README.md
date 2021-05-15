@@ -14,7 +14,7 @@ Para visualização do documento contendo os itens acima acessar:
 ## Proposta de solução
 - Criação de um sistema com o uso de inteligência artificial que seja capaz de exibir e encontrar potenciais perfis interessados em produtos da empresa SPC.
 
-## Demonstração do sistema atualizado
+## Demonstração do sistema
 ![Sprint 2](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/imagens/prototipo.gif)
 
 ## Marcos do projeto
@@ -52,6 +52,7 @@ Para visualização do documento contendo os itens acima acessar:
 - [PostgreSQL](https://www.postgresql.org/)
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 - [Dash Plotly](https://flask.palletsprojects.com/en/1.1.x/)
+- [Fuzzywuzzy](https://pypi.org/project/fuzzywuzzy/)
 
 ## Integrantes do grupo
 
