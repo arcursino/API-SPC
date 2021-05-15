@@ -59,6 +59,10 @@ disponíveis.
 - Bibliotecas: 
 	- Scikit learning
 	- Scipy
+	- Pandas
+	- Numpy
+	- Matplotlib
+	- Seaborn
 
 ![Sprint 3](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/imagens/sprint-tres.png)
 
