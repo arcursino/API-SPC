@@ -14,7 +14,7 @@ Para visualização do documento contendo os itens acima acessar:
 ## Proposta de solução
 - Criação de um sistema com o uso de inteligência artificial que seja capaz de exibir e encontrar potenciais perfis interessados em produtos da empresa SPC.
 
-## Demonstração do sistema atualizado
+## Demonstração do sistema
 ![Sprint 2](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/imagens/prototipo.gif)
 
 ## Marcos do projeto
@@ -24,7 +24,7 @@ Para visualização do documento contendo os itens acima acessar:
 |1ª Sprint|Realização da análise do *dataset* para entender e definir a proposta de solução a ser validada pelo cliente|08/03 - 28/03|
 |2ª Sprint|Criação de um dashboard e implementação dos dados analisados através de gráficos e tabela para futura interação com aplicação do *Machine Learning*|29/03 - 18/04|
 |3ª Sprint|Implementação do *Machine Learning* com base nos dados analisados para criação de um sistema de recomendação de produtos|26/04 - 16/05|
-|4ª Sprint|Adição de gráfico(s) e tabela(s) para melhor amostragem dos dados que serão apresentados pela aplicação do *Machine Learning*|17/05 - 05/06|
+|4ª Sprint|Implementação do sistema de recomendação na aplicação|17/05 - 05/06|
 |Apresentação final |Apresentação do produto final para o cliente|07/06 - 11/06|
 |Feira de soluções| Apresentação do produto final para o público |14/06 - 18/06|
 
@@ -52,6 +52,7 @@ Para visualização do documento contendo os itens acima acessar:
 - [PostgreSQL](https://www.postgresql.org/)
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 - [Dash Plotly](https://flask.palletsprojects.com/en/1.1.x/)
+- [Fuzzywuzzy](https://pypi.org/project/fuzzywuzzy/)
 
 ## Integrantes do grupo
 
