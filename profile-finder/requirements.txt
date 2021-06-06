@@ -38,3 +38,4 @@ shapely
 descartes
 rtree
 pygeos
+fuzzywuzzy
