@@ -3,10 +3,19 @@
 - Previsão de inicio: 17/05
 - Termino: 06/06
 
-Nesta sprint será feita a adição de gráfico(s) e tabela(s) para melhor amostragem dos dados que serão apresentados junto
-da aplicação do machine learning no sistema.
+Nesta sprint foi adiconado o gráfico de cluster com a segmentação dos clientes e o sistema de recomendação de produtos para o cluster escolhido. 
 
-A idéia é que, com a implementação dessas novas ferramentas, o cliente consiga avaliar melhor as informações geradas pelo sistema. 
+- [Recomendação Baseado no Conteúdo com Cluster](https://github.com/EricaSantos2109/API-SPC/blob/main/analise/sistema-recomendacao/recomendacao-baseado_conteudo_cluster.ipynb). Foi usado as Similaridade do Cosseno, Euclidiana e de Manhattan e aplicado uma Segmentação utilizando o Kmeans para construir o sistema de recomendação Baseada em Contéudo para refinar o sitema de recomendação geral.
+
+- Implementação do sistema de recomendação na aplicação
+
+
+
+
+## Conclusão
+
+- Como refinamento do nosso Sistema de Recomendação Baseado no Conteúdo, foi utilizado anteriormente uma segmentação dos clientes utilizando o Kmeans e logo depois a matriz de similaridade usando a distância euclidiana, pois a mesma foi mais eficaz, apresentando uma maior granularidade e diversidade nas distâncias, utilizaremos ela no nosso produto final.
+
 
 [[Link para os documentos]](https://github.com/EricaSantos2109/API-SPC/tree/main/documentos/sprint-4)
 
