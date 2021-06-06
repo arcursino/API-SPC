@@ -242,8 +242,8 @@ def get_content_based_recommendations(cluster, produto_string, n_recommendations
     manhat_sim = manhattan_distances(categoria_features, categoria_features)
     euclid_sim = euclidean_distances(categoria_features, categoria_features)
     cosine_sim = cosine_similarity(categoria_features, categoria_features)
-    prod_id = prod_por_nome(produto_string)
-    produto = busca_produto(prod_id, cluster, cluster_original)
+    # prod_id = prod_por_nome(produto_string)
+    produto = busca_produto(produto_string, cluster, cluster_original)
     idx_first = produto_idx(cluster, cluster_original)
     idx = idx_first[produto]
     sim_scores_euc = list(enumerate(euclid_sim[idx]))

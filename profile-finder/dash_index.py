@@ -528,7 +528,7 @@ def update_table(cidade):
     
 def set_prods_options(cidade):
     cidade = df3.loc[df3["customer_city"] == cidade,
-                'product_category_name'].unique()
+                'product_id'].unique()
     new = []
     i = 0
     for x in cidade:
