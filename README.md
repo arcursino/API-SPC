@@ -15,7 +15,7 @@ Para visualização do documento contendo os itens acima acessar:
 - Criação de um sistema com o uso de inteligência artificial que seja capaz de exibir e encontrar potenciais perfis interessados em produtos da empresa SPC.
 
 ## Demonstração do sistema
-![Sprint 2](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/imagens/prototipo.gif)
+![Sprint 4](https://github.com/EricaSantos2109/API-SPC/blob/main/relatorios-sprint/imagens/aplicacao_final.gif)
 
 ## Marcos do projeto
 | Marcos | Descrição | Previsão |
